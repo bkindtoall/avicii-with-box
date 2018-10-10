@@ -1,8 +1,9 @@
 img {
   float: right;
 }
-.sidebar {
-  width: 30%;
-  float:left;
-  background-color: lightblue;
+.box {
+  margin: 12px;
+  border: medium solid navy;
+  padding: 4px;
+  background-color: coral;
 }
